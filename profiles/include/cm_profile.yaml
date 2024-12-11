@@ -1,0 +1,6 @@
+# Temporary  Configuration File defined for testing purposes only.
+# The values are vendor specific and have to be populated with respect to the platform.
+cm:
+  config:
+    HttpUrl: ""
+    filename: ""
